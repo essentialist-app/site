@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Essentialist and Flashdown applications</title>
+    <title>Essentialist</title>
     <link>https://essentialist-app.github.io/site/</link>
-    <description>Recent content on Essentialist and Flashdown applications</description>
+    <description>Recent content on Essentialist</description>
     <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 23:33:46 +0100</lastBuildDate>
     <atom:link href="https://essentialist-app.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Essentialist</title>
+      <link>https://essentialist-app.github.io/site/post/home/</link>
+      <pubDate>Sat, 21 Sep 2024 23:33:46 +0100</pubDate>
+      <guid>https://essentialist-app.github.io/site/post/home/</guid>
+      <description>&lt;p&gt;Programs for &lt;a href=&#34;https://en.wikipedia.org/wiki/Spaced_repetition&#34;&gt;spaced repetition&lt;/a&gt; using flashcards in &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Essentialist&lt;/strong&gt;: Application for desktops and mobiles&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flashdown&lt;/strong&gt;: Console application&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The space repetition algorithm used is based on &lt;a href=&#34;https://en.wikipedia.org/wiki/SuperMemo#Description_of_SM-2_algorithm&#34;&gt;SM-2&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Key features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Privacy&lt;/strong&gt;: No cloud, your data never leave your device.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Easy card creation&lt;/strong&gt;: Flash cards are plain text Markdown files.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cross-platform&lt;/strong&gt;: Runs on Linux, MacOS, Windows and android.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;See the &lt;a href=&#34;https://essentialist-app.github.io/site/.github/CONTRIBUTING.md&#34;&gt;CONTRIBUTING.md&lt;/a&gt; for how to report bugs and
+submit pull request.&lt;/p&gt;
+&lt;h2 id=&#34;flash-cards-syntax&#34;&gt;Flash cards syntax&lt;/h2&gt;
+&lt;p&gt;Each deck of cards is a plain text Markdown files with the extension &lt;code&gt;.md&lt;/code&gt; (ex:
+&lt;code&gt;sample.md&lt;/code&gt;). You can put all your decks in the same directory.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
