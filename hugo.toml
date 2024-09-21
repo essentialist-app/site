@@ -1,4 +1,4 @@
 baseURL = 'https://essentialist-app.github.io/site'
 languageCode = 'en-us'
-title = 'Essentialist and Flashdown applications'
-theme = 'FixIt'
+title = 'Essentialist'
+theme = 'PaperMod'

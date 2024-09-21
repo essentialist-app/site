@@ -1,0 +1,7 @@
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "public"]
+	path = public
+	url = git@github.com:essentialist-app/site.git
+	branch = main
