@@ -2,3 +2,4 @@ baseURL = 'https://essentialist-app.github.io/site'
 languageCode = 'en-us'
 title = 'Essentialist'
 theme = 'PaperMod'
+cleanDestinationDir = true
