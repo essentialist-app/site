@@ -2,7 +2,7 @@
 
 The site is generated using Hugo and hosted as a Github page under a custom domain.
 
-The Github user is essentialist-app (login with <essentialist@peaceful.ninja>).
+The Github user is essentialist-app (login with <essentialist@personal.domain>).
 
 The repo `github.com/essentialist-app/site` contains the Hugo site. It is
 published using the Github action defined at `.github/workflows/hugo.yaml`.

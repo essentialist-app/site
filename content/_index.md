@@ -8,7 +8,7 @@ date = 2024-09-21T23:33:46+01:00
 Essentialist is an open-source programs for [spaced repetition][1] (similar to
 [Anki](https://apps.ankiweb.net/)). Essentialist is **cross-platform** and runs
 on Linux, MacOS, Windows and android (download latest version
-[here](https://github.com/lugu/flashdown/releases/latest)).
+[here](https://github.com/essentialist-app/essentialist/releases/latest)).
 
 Flash cards are written using the [Markdown][2] format (refer to the [flash
 card syntax](#flash-card-syntax)). Writing cards in Markdown is fun and easy.
