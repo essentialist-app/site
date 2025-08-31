@@ -7,6 +7,8 @@ date = 2025-08-30T01:33:46+01:00
 
 Essentialist is a simple, private, and cross-platform flashcard app designed to make studying and note-taking a seamless process. 🧠 It is an open-source program for [spaced repetition][1] (similar to [Anki](https://apps.ankiweb.net/)).
 
+ Download the latest version [here](https://github.com/essentialist-app/essentialist/releases/latest).
+
 ![screenshot of essentialist on Linux](./screenshot.png)
 
 ## Create Flashcards from Notes
@@ -29,7 +31,7 @@ The app features a minimalist user interface that's distraction-free and helps y
 
 ## Learn Anywhere, On Any Device
 
-Whether you're on your laptop, desktop, or phone, Essentialist has you covered. It's not just for Linux; it's also available on Windows, macOS, and Android, allowing you to study and review your flashcards in different environments without being locked into a single platform. Download the latest version [here](https://github.com/essentialist-app/essentialist/releases/latest).
+Whether you're on your laptop, desktop, or phone, Essentialist has you covered. It's not just for Linux; it's also available on Windows, macOS, and Android, allowing you to study and review your flashcards in different environments without being locked into a single platform.
 
 The space repetition algorithm used is based on [SM-2][3].
 
