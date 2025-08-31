@@ -7,7 +7,7 @@ date = 2025-08-30T01:33:46+01:00
 
 Essentialist is a simple, private, and cross-platform flashcard app designed to make studying and note-taking a seamless process. 🧠 It is an open-source program for [spaced repetition][1] (similar to [Anki](https://apps.ankiweb.net/)).
 
- Download the latest version [here](https://github.com/essentialist-app/essentialist/releases/latest).
+* Download the latest version from the [releases page](https://github.com/essentialist-app/essentialist/releases/latest).
 
 {{< themeImage light="./screenshot.png" dark="./question-dark.png" alt="screenshot of essentialist on Linux" >}}
 
@@ -67,6 +67,10 @@ Answer with a table.
 | --- | --- |
 | 124 | 456 |
 ```
+
+## Reporting Issues
+
+If you find a bug or have a feature request, please open an issue on our [GitHub repository](https://github.com/essentialist-app/essentialist/issues).
 
 
 [1]: https://en.wikipedia.org/wiki/Spaced_repetition
