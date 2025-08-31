@@ -9,7 +9,7 @@ Essentialist is a simple, private, and cross-platform flashcard app designed to 
 
  Download the latest version [here](https://github.com/essentialist-app/essentialist/releases/latest).
 
-![screenshot of essentialist on Linux](./screenshot.png)
+{{< themeImage light="./screenshot.png" dark="./question-dark.png" alt="screenshot of essentialist on Linux" >}}
 
 ## Create Flashcards from Notes
 
