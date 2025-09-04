@@ -3,11 +3,11 @@ title = 'Essentialist'
 date = 2025-08-30T01:33:46+01:00
 +++
 
-# Essentialist
+{{< inTextImg url="icon.svg" height="128" alt="icon" >}}
 
-Essentialist is a simple, private, and cross-platform flashcard app designed to make studying and note-taking a seamless process. 🧠 It is an open-source program for [spaced repetition][1] (similar to [Anki](https://apps.ankiweb.net/)).
+**Essentialist** is a simple, private, and cross-platform flashcard app designed for seamless studying and note-taking in Markdown. 🧠 It is an open-source program for [spaced repetition][1] (similar to [Anki](https://apps.ankiweb.net/)).
 
-* Download the latest version from the [releases page](https://github.com/essentialist-app/essentialist/releases/latest).
+Download the latest version from the [releases page](https://github.com/essentialist-app/essentialist/releases/latest).
 
 {{< themeImage light="./question.png" dark="./question-dark.png" alt="screenshot of essentialist on Linux" >}}
 
