@@ -3,17 +3,26 @@ title = 'Essentialist'
 date = 2025-08-30T01:33:46+01:00
 +++
 
-{{< inTextImg url="icon.svg" height="128" alt="icon" >}}
+{{< inTextImg url="icons/icon.svg" height="128" alt="Logo of Essentialist" >}}
 
-**Essentialist** is a simple, private, and cross-platform flashcard app designed for seamless studying and note-taking in Markdown. 🧠 It is an open-source program for [spaced repetition][1] (similar to [Anki](https://apps.ankiweb.net/)).
+**Essentialist** is a simple, private, and cross-platform flashcard app
+designed for fluid studying and note-taking in Markdown. 🧠 It is an
+open-source program for [spaced repetition][1] (similar to
+[Anki](https://apps.ankiweb.net/)).
 
-Download the latest version from the [releases page](https://github.com/essentialist-app/essentialist/releases/latest).
+[Download](https://github.com/essentialist-app/essentialist/releases/latest)
+the latest version.
 
 {{< themeImage light="./question.png" dark="./question-dark.png" alt="screenshot of essentialist on Linux" >}}
 
 ## Create Flashcards from Notes
 
-Tired of creating flashcards in a separate app after taking notes? Essentialist makes it easy. Your flashcard decks are just simple Markdown files, which means you can create cards directly while taking notes. This is a perfect workflow for students and anyone who takes notes and wants to quickly turn them into study material. Each card is defined by a simple H2 header (`## Your Card Title`).
+Tired of creating flashcards in a separate app after taking notes? Essentialist
+makes it easy. Your flashcard decks are just simple Markdown files, which means
+you can create cards directly while taking notes. This is a perfect workflow
+for students and anyone who takes notes and wants to quickly turn them into
+study material. Each card is defined by a simple H2 header (`## Your Card
+Title`).
 
 Because your decks are plain text files, they are:
 
@@ -21,27 +30,42 @@ Because your decks are plain text files, they are:
 - Future-proof: Plain text is a universal format.
 - Editable with any editor: Use your favorite text editor to make changes.
 
-Essentialist supports a variety of Markdown features, including lists, tables, emojis, and basic text styling (italic and bold). Please note that image support is not yet available.
+Essentialist supports a variety of Markdown features, including lists, tables,
+emojis, and basic text styling (italic and bold). Please note that image
+support is not yet available.
 
 ## Privacy and Simplicity at the Core
 
-We believe your data should stay yours. Essentialist doesn't perform any network operations. It respects your privacy by keeping your data right where it belongs: on your device. There's no cloud, no sync service, and no data collection.
+We believe your data should stay yours. Essentialist doesn't perform any
+network operations. It respects your privacy by keeping your data right where
+it belongs: on your device. There's no cloud, no sync service, and no data
+collection.
 
-The app features a minimalist user interface that's distraction-free and helps you focus on your learning. It includes a dark theme for comfortable late-night study sessions and robust keyboard bindings for quick navigation and interaction. For those who prefer the command line, there's also a companion terminal application.
+The app features a minimalist user interface that's distraction-free and helps
+you focus on your learning. It includes a dark theme for comfortable late-night
+study sessions and robust keyboard bindings for quick navigation and
+interaction. For those who prefer the command line, there's also a companion
+terminal application.
 
 ## Learn Anywhere, On Any Device
 
-Whether you're on your laptop, desktop, or phone, Essentialist has you covered. It's not just for Linux; it's also available on Windows, macOS, and Android, allowing you to study and review your flashcards in different environments without being locked into a single platform.
+Whether you're on your laptop, desktop, or phone, Essentialist has you covered.
+It's not just for Linux; it's also available on Windows, macOS, and Android,
+allowing you to study and review your flashcards in different environments
+without being locked into a single platform.
 
 The space repetition algorithm used is based on [SM-2][3].
 
 ## Flash card syntax
 
-Each deck of cards is a plain text [Markdown][2] file with the extension `.md` (ex: `sample.md`). You can put all your decks in the same directory.
+Each deck of cards is a plain text [Markdown][2] file with the extension `.md`
+(ex: `sample.md`). You can put all your decks in the same directory.
 
-Each card starts with a heading level 2 (line starting with `##`) defining the question. The answer is the content following (until the next heading level 2).
+Each card starts with a heading level 2 (line starting with `##`) defining the
+question. The answer is the content following (until the next heading level 2).
 
-Your progress is stored in a hidden file `.<deck file>.db` (ex: `.sample.md.db`).
+Your progress is stored in a hidden file `.<deck file>.db` (ex:
+`.sample.md.db`).
 
 Example of a deck with 3 cards:
 
@@ -70,8 +94,8 @@ Answer with a table.
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an issue on our [GitHub repository](https://github.com/essentialist-app/essentialist/issues).
-
+If you find a bug or have a feature request, please open an issue on our
+[GitHub repository](https://github.com/essentialist-app/essentialist/issues).
 
 [1]: https://en.wikipedia.org/wiki/Spaced_repetition
 [2]: https://en.wikipedia.org/wiki/Markdown
