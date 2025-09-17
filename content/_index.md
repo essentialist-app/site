@@ -1,11 +1,11 @@
 +++
 title = 'Essentialist'
-date = 2025-08-30T01:33:46+01:00
+date = 2025-09-17T01:33:46+01:00
 +++
 
 {{< inTextImg url="icons/icon.svg" height="128" alt="Logo of Essentialist" >}}
 
-**Essentialist** is a simple, private, and cross-platform flashcard app
+**Essentialist** is a minimalist, private, and cross-platform flashcard app
 designed for fluid studying and note-taking in Markdown. 🧠 It is an
 open-source program for [spaced repetition][1] (similar to
 [Anki](https://apps.ankiweb.net/)).
