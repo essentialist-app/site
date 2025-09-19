@@ -1,6 +1,6 @@
 +++
 title = 'Essentialist'
-date = 2025-09-17T01:33:46+01:00
+date = 2025-09-19T23:41:45+01:00
 +++
 
 {{< inTextImg url="icons/icon.svg" height="128" alt="Logo of Essentialist" >}}
